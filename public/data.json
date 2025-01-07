@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action-adventure",
+        "platforms": [
+            "Nintendo Switch",
+            "Wii U"
+        ],
+        "releaseDate": "2017-03-03",
+        "developer": "Nintendo",
+        "rating": 9.8,
+        "image": "https://example.com/images/zelda-breath-of-the-wild.jpg"
+    },
+    {
+        "id": 2,
+        "name": "God of War (2018)",
+        "genre": "Action-adventure",
+        "platforms": [
+            "PlayStation 4",
+            "PC"
+        ],
+        "releaseDate": "2018-04-20",
+        "developer": "Santa Monica Studio",
+        "rating": 9.7,
+        "image": "https://example.com/images/god-of-war.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Red Dead Redemption 2",
+        "genre": "Action-adventure",
+        "platforms": [
+            "PlayStation 4",
+            "Xbox One",
+            "PC"
+        ],
+        "releaseDate": "2018-10-26",
+        "developer": "Rockstar Games",
+        "rating": 9.6,
+        "image": "https://example.com/images/red-dead-redemption-2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Minecraft",
+        "genre": "Sandbox, Survival",
+        "platforms": [
+            "PC",
+            "Console",
+            "Mobile"
+        ],
+        "releaseDate": "2011-11-18",
+        "developer": "Mojang Studios",
+        "rating": 9.5,
+        "image": "https://example.com/images/minecraft.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Elden Ring",
+        "genre": "Action RPG",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X/S"
+        ],
+        "releaseDate": "2022-02-25",
+        "developer": "FromSoftware",
+        "rating": 9.7,
+        "image": "https://example.com/images/elden-ring.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fortnite",
+        "genre": "Battle Royale",
+        "platforms": [
+            "PC",
+            "Console",
+            "Mobile"
+        ],
+        "releaseDate": "2017-07-25",
+        "developer": "Epic Games",
+        "rating": 8.5,
+        "image": "https://example.com/images/fortnite.jpg"
+    },
+    {
+        "id": 7,
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": "Action RPG",
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "releaseDate": "2015-05-19",
+        "developer": "CD Projekt Red",
+        "rating": 9.7,
+        "image": "https://example.com/images/witcher-3.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Grand Theft Auto V",
+        "genre": "Action-adventure",
+        "platforms": [
+            "PC",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox 360",
+            "Xbox One",
+            "Xbox Series X/S"
+        ],
+        "releaseDate": "2013-09-17",
+        "developer": "Rockstar Games",
+        "rating": 9.5,
+        "image": "https://example.com/images/gta-v.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Clash of Clans",
+        "genre": "Strategy",
+        "platforms": [
+            "Mobile"
+        ],
+        "releaseDate": "2012-08-02",
+        "developer": "Supercell",
+        "rating": 8.5,
+        "image": "https://example.com/images/clash-of-clans.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Hollow Knight",
+        "genre": "Metroidvania",
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "releaseDate": "2017-02-24",
+        "developer": "Team Cherry",
+        "rating": 9.0,
+        "image": "https://example.com/images/hollow-knight.jpg"
+    }
+]

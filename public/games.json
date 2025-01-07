@@ -1,0 +1,167 @@
+[
+    {
+        "image": "https://m.media-amazon.com/images/I/91AWuy0VmSL._AC_UF894,1000_QL80_.jpg",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "reviewDescription": "A groundbreaking open-world experience with breathtaking visuals and immersive gameplay.",
+        "rating": 9.8,
+        "releaseDate": "2017-03-03",
+        "genres": [
+            "Action-adventure"
+        ],
+        "platforms": [
+            "Nintendo Switch",
+            "Wii U"
+        ],
+        "developer": "Nintendo"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/uk/e/ed/Elden_Ring_poster.jpg",
+        "name": "Elden Ring",
+        "reviewDescription": "A masterpiece of storytelling, challenging gameplay, and stunning visuals.",
+        "rating": 9.7,
+        "releaseDate": "2022-02-25",
+        "genres": [
+            "Action RPG"
+        ],
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox One",
+            "Xbox Series X/S"
+        ],
+        "developer": "FromSoftware"
+    },
+    {
+        "image": "https://media.gamestop.com/i/gamestop/god-of-warHeroTM/god-of-war.jpg?$POI$&w=768&aspect=.66:1",
+        "name": "God of War (2018)",
+        "reviewDescription": "An emotional and action-packed adventure with groundbreaking combat mechanics.",
+        "rating": 9.7,
+        "releaseDate": "2018-04-20",
+        "genres": [
+            "Action-adventure"
+        ],
+        "platforms": [
+            "PlayStation 4",
+            "PC"
+        ],
+        "developer": "Santa Monica Studio"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIvJK9gY8PW0rUdQUS_VZIk9XsEeOLgALJOtX-WeWLeD6FL_51RjJzZLv9_q5tTKBdWYw&usqp=CAU",
+        "name": "The Witcher 3: Wild Hunt",
+        "reviewDescription": "An unparalleled RPG experience with rich storytelling and a vast, detailed world.",
+        "rating": 9.7,
+        "releaseDate": "2015-05-19",
+        "genres": [
+            "Action RPG"
+        ],
+        "platforms": [
+            "PC",
+            "PlayStation 4",
+            "Xbox One",
+            "Nintendo Switch"
+        ],
+        "developer": "CD Projekt Red"
+    },
+    {
+        "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
+        "name": "Red Dead Redemption 2",
+        "reviewDescription": "A stunning open-world western with an immersive story and impeccable attention to detail.",
+        "rating": 9.6,
+        "releaseDate": "2018-10-26",
+        "genres": [
+            "Action-adventure"
+        ],
+        "platforms": [
+            "PlayStation 4",
+            "Xbox One",
+            "PC"
+        ],
+        "developer": "Rockstar Games"
+    },
+    {
+        "image": "https://store-images.s-microsoft.com/image/apps.50223.14086826113896348.0ac2ef86-2cca-45c3-9d11-1dc9ac71c024.34520097-f601-4a06-b16d-e40280f0fc15?q=90&w=480&h=270",
+        "name": "Grand Theft Auto V",
+        "reviewDescription": "A revolutionary open-world game with endless entertainment and creativity.",
+        "rating": 9.5,
+        "releaseDate": "2013-09-17",
+        "genres": [
+            "Action-adventure"
+        ],
+        "platforms": [
+            "PC",
+            "PlayStation 3",
+            "PlayStation 4",
+            "PlayStation 5",
+            "Xbox 360",
+            "Xbox One",
+            "Xbox Series X/S"
+        ],
+        "developer": "Rockstar Games"
+    },
+    {
+        "image": "https://store-images.s-microsoft.com/image/apps.43152.14247769038588514.3ce72ba0-ff44-4b91-b1ca-eef499b58987.a75b6a42-9c31-452f-b8ec-e955d3ab3d00?q=90&w=480&h=270",
+        "name": "Minecraft",
+        "reviewDescription": "A sandbox game that fosters creativity, exploration, and endless fun.",
+        "rating": 9.5,
+        "releaseDate": "2011-11-18",
+        "genres": [
+            "Sandbox",
+            "Survival"
+        ],
+        "platforms": [
+            "PC",
+            "Console",
+            "Mobile"
+        ],
+        "developer": "Mojang Studios"
+    },
+    {
+        "image": "https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2013/10/ClashoCHEADER.png",
+        "name": "Clash of Clans",
+        "reviewDescription": "An addictive mobile strategy game with engaging multiplayer gameplay.",
+        "rating": 9.5,
+        "releaseDate": "2012-08-02",
+        "genres": [
+            "Strategy"
+        ],
+        "platforms": [
+            "Mobile"
+        ],
+        "developer": "Supercell"
+    },
+    {
+        "image": "https://m.media-amazon.com/images/I/71sH51VfenL._AC_UF1000,1000_QL80_.jpg",
+        "name": "Hollow Knight",
+        "reviewDescription": "A beautifully designed metroidvania with deep lore and challenging gameplay.",
+        "rating": 9.4,
+        "releaseDate": "2017-02-24",
+        "genres": [
+            "Metroidvania"
+        ],
+        "platforms": [
+            "PC",
+            "Nintendo Switch",
+            "PlayStation 4",
+            "Xbox One"
+        ],
+        "developer": "Team Cherry"
+    },
+    {
+        "image": "https://i.ebayimg.com/images/g/Pv0AAOSwzypgLYgv/s-l400.jpg",
+        "name": "Fortnite",
+        "reviewDescription": "A cultural phenomenon that combines battle royale with creative building mechanics.",
+        "rating": 9.2,
+        "releaseDate": "2017-07-25",
+        "genres": [
+            "Battle Royale"
+        ],
+        "platforms": [
+            "PC",
+            "Console",
+            "Mobile"
+        ],
+        "developer": "Epic Games"
+    }
+]
