@@ -1,5 +1,5 @@
 # "ReviewXP"
-![ReviewXP](https://i.ibb.co.com/LhZcWhS8/reviewXP.png)
+![ReviewXP](https://i.ibb.co.com/NdrCgPzY/reviewXP.png)
 
 
 # Short descroption:
